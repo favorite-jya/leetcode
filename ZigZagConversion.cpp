@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/zigzag-conversion/submissions/
+//https://leetcode.com/problems/zigzag-conversion/
 //Run Code 수행 시 OK 하지만 Submit시에 같은 input에서 오류 발생
 
 char textData[1001][1001] = {'\0', };
